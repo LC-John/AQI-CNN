@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt"
+all_model_checkpoint_paths: "../tmp_save_1/model3.ckpt"
+all_model_checkpoint_paths: "../tmp_save_1/model4.ckpt"
+all_model_checkpoint_paths: "../tmp_save_1/model5.ckpt"
+all_model_checkpoint_paths: "../tmp_save_1/model6.ckpt"
+all_model_checkpoint_paths: "model.ckpt"
